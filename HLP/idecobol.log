@@ -1,0 +1,18 @@
+Microsoft (R) Help Compiler
+HCRTF 4.03.0002
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+idecobol2.hpj
+    HC3124: Warning: idecobol2.hpj : 
+	The TMP folder "D:\Meus Documentos\Sistemas\DELPHI\Estudando\IdeCobol\HLP" is invalid.
+    HC3026: Warning: topic #1 of D:\Meus Documentos\Sistemas\DELPHI\Estudando\IdeCobol\HLP\idecobol2.rtf : 
+	The Topic ID "IDH_110" has already been defined in topic 1 in file D:\Meus Documentos\Sistemas\DELPHI\Estudando\IdeCobol\HLP\idecobol.rtf.
+2	Topics
+0	Jumps
+0	Keywords
+0	Bitmaps
+
+Created D:\Meus Documentos\Sistemas\DELPHI\Estudando\IdeCobol\HLP\idecobol.fts, 10,240 bytes
+Created D:\Meus Documentos\Sistemas\DELPHI\Estudando\IdeCobol\HLP\idecobol.hlp, 7,248 bytes
+Hall+Zeck compression decreased help file by 430 bytes.
+Compile time: 0 minutes, 0 seconds
+2 notes, 2 warnings

@@ -1,0 +1,18 @@
+[OPTIONS]
+CONTENTS=IDH_110
+REPORT=YES
+LCID=0x416 0x0 ; Portuguese - (Brazil)
+TITLE=IDE Cobol
+NOTES=NO
+COPYRIGHT=Versão 1.0
+CITATION=Criado por Andre Mesquita
+COMPRESS=12 Hall Zeck
+HLP=idecobol.hlp
+ERRORLOG=idecobol.log
+CNT=D:\Meus Documentos\Sistemas\DELPHI\Estudando\IdeCobol\HLP\idecobol.cnt
+TMPDIR=D:\Meus Documentos\Sistemas\DELPHI\Estudando\IdeCobol\HLP
+FTS=1
+[FILES]
+D:\Meus Documentos\Sistemas\DELPHI\Estudando\IdeCobol\HLP\idecobol.rtf
+[WINDOWS]
+main="",(5,5,360,600),27904,(r11206655),(r12632256),f1
